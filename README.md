@@ -14,7 +14,7 @@ It also computes the total price that item will cost.
 This allows us to reduce clutter as we only need to carry out phone with us to have the list with us.
 
                                                           
-                                                          APPLICATIONS
+                                                                APPLICATIONS
 
 Right now, this solution can be applied to solve daily listing problem it maintains the grocery inventory.
 
